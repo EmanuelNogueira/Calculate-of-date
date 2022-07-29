@@ -42,7 +42,7 @@ if (chosenOption == "1") {
 
 } else if (chosenOption == "3") {
 
-    // Logo, a conversão me horas segue o mesmo padrão, após a conversão em segundos, estaremos convertendo em minutos e logo depois em horas.
+    // Logo, a conversão em horas segue o mesmo padrão, após a conversão em segundos, estaremos convertendo em minutos e logo depois em horas.
     let hoursofDeparture = Math.round(dateDiff / 1000 / 60 / 60);
 
     // Retorno ao cliente do resultado. 
