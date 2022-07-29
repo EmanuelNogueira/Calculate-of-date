@@ -6,4 +6,4 @@ Projeto para calcular a data escolhida com a data atual, e  ter um resultado em 
 
  - Segundo ponto: Devemos observar com detalhe o processo do nosso cálculo pois o calculo do "moment" retorna os valores em milisegundos, então deverá ter uma divisão para retornar os valores conforme o pedido do usuário. 
 
- - Terceiro ponto: O nosso código está auto-explicativo, então faça um bom proveito do código!!
+ - Terceiro ponto: O código está auto-explicativo, então faça um bom proveito do código!!
